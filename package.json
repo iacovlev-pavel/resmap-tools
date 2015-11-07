@@ -1,0 +1,20 @@
+{
+  "name": "resmap-tools",
+  "version": "1.0.0",
+  "description": "Tools for the resmap projecy",
+  "license": "MIT",
+  "author": {
+    "name": "Pavel Iacovlev",
+    "url": "http://iacovlev.info",
+    "email": "iacovlev.pavel@gmail.com"
+  },
+  "scripts": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com:iacovlev-pavel/resmap-tools.git"
+  },
+  "dependencies": {
+    "gdal": "^0.7.2"
+  }
+}
