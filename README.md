@@ -1,2 +1,2 @@
 # resmap-tools
-Tools for the resmap projecy
+Tools for the resmap project
